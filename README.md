@@ -1,2 +1,2 @@
-# bounceoff
-we have made on visiual studio
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
